@@ -1,4 +1,4 @@
-package com.example.copyMe;
+package com.example.demo;
 
 public class ComparatorSorting {
 	public static void main(String[] args) {
